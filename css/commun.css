@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #E9EADA;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+}
+.navbar, .footer {
+    background-color: #6D8726;
+}
+.footer {
+    color: #FFFFFF;
+}
+.btn-donate {
+    background-color: #7B715E;
+    color: #B9BB74;
+}
+.btn-donate:hover {
+    background-color: #B9BB74;
+    color: #7B715E;
+}
+hr {
+    width: 30%;
+    border: solid #FFFFFF 1px;
+    color: #FFFFFF;
+}
+.hrf {
+    width: 100%;
+    border: solid #FFFFFF 1px;
+    color: #FFFFFF;
+}
+.sub-nav {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.sub-nav:hover {
+    color: #B9BB74;
+    text-decoration: none;
+}
+.btn-photo-video {
+    background-color: #7B715E;
+    color: #B9BB74;
+}
+.btn-photo-video:hover {
+    background-color: #B9BB74;
+    color: #7B715E;
+}
